@@ -5,12 +5,12 @@ Vous trouverez sur ce lien kaggle l'explication ainsi que les datasets pour mene
 https://www.kaggle.com/competitions/starcraft-2-player-prediction-challenge-2019/data
 ## Bibliothèque
 Voici les bibliothèques nécéssaire pour le code fourni : 
-  import pandas
-  import tensorflow
-  import json
-  import numpy
-  improt sklearn
-  import imblearn
+  * import pandas
+  * import tensorflow
+  * import json
+  * import numpy
+  * improt sklearn
+  * import imblearn
 ## Démarche 
 + Import des données
 + Nettoyage des données
